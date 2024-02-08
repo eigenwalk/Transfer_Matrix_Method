@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/Programming/cpp/002_VSCode/001_Simulations/TMM/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/TMM.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\TMM.dir\\main.cpp.obj -c D:\\Programming\\cpp\\002_VSCode\\001_Simulations\\TMM\\main.cpp",
+  "file": "D:/Programming/cpp/002_VSCode/001_Simulations/TMM/main.cpp",
+  "output": "CMakeFiles/TMM.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/Programming/cpp/002_VSCode/001_Simulations/TMM/build/src/manager",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/job_manager_lib.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\job_manager_lib.dir\\jobManager.cpp.obj -c D:\\Programming\\cpp\\002_VSCode\\001_Simulations\\TMM\\src\\manager\\jobManager.cpp",
+  "file": "D:/Programming/cpp/002_VSCode/001_Simulations/TMM/src/manager/jobManager.cpp",
+  "output": "src/manager/CMakeFiles/job_manager_lib.dir/jobManager.cpp.obj"
+},
+{
+  "directory": "D:/Programming/cpp/002_VSCode/001_Simulations/TMM/build/src/optics",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/tmm_lib.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\tmm_lib.dir\\tmmRun.cpp.obj -c D:\\Programming\\cpp\\002_VSCode\\001_Simulations\\TMM\\src\\optics\\tmmRun.cpp",
+  "file": "D:/Programming/cpp/002_VSCode/001_Simulations/TMM/src/optics/tmmRun.cpp",
+  "output": "src/optics/CMakeFiles/tmm_lib.dir/tmmRun.cpp.obj"
+}
+]

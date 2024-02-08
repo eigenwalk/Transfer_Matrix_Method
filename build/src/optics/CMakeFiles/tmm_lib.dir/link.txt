@@ -1,0 +1,2 @@
+C:\msys64\mingw64\bin\ar.exe qc libtmm_lib.a CMakeFiles/tmm_lib.dir/tmmRun.cpp.obj
+C:\msys64\mingw64\bin\ranlib.exe libtmm_lib.a

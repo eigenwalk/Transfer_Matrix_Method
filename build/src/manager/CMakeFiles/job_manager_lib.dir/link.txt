@@ -1,0 +1,2 @@
+C:\msys64\mingw64\bin\ar.exe qc libjob_manager_lib.a CMakeFiles/job_manager_lib.dir/jobManager.cpp.obj
+C:\msys64\mingw64\bin\ranlib.exe libjob_manager_lib.a
