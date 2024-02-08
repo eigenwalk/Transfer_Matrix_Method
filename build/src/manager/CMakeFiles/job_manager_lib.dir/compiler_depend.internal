@@ -28,23 +28,17 @@ src/manager/CMakeFiles/job_manager_lib.dir/jobManager.cpp.obj
  C:/msys64/mingw64/include/c++/13.2.0/bits/basic_string.tcc
  C:/msys64/mingw64/include/c++/13.2.0/bits/char_traits.h
  C:/msys64/mingw64/include/c++/13.2.0/bits/charconv.h
- C:/msys64/mingw64/include/c++/13.2.0/bits/chrono.h
- C:/msys64/mingw64/include/c++/13.2.0/bits/codecvt.h
  C:/msys64/mingw64/include/c++/13.2.0/bits/concept_check.h
  C:/msys64/mingw64/include/c++/13.2.0/bits/cpp_type_traits.h
  C:/msys64/mingw64/include/c++/13.2.0/bits/cxxabi_forced.h
  C:/msys64/mingw64/include/c++/13.2.0/bits/cxxabi_init_exception.h
- C:/msys64/mingw64/include/c++/13.2.0/bits/enable_special_members.h
  C:/msys64/mingw64/include/c++/13.2.0/bits/erase_if.h
  C:/msys64/mingw64/include/c++/13.2.0/bits/exception.h
  C:/msys64/mingw64/include/c++/13.2.0/bits/exception_defines.h
  C:/msys64/mingw64/include/c++/13.2.0/bits/exception_ptr.h
- C:/msys64/mingw64/include/c++/13.2.0/bits/fstream.tcc
  C:/msys64/mingw64/include/c++/13.2.0/bits/functexcept.h
  C:/msys64/mingw64/include/c++/13.2.0/bits/functional_hash.h
  C:/msys64/mingw64/include/c++/13.2.0/bits/hash_bytes.h
- C:/msys64/mingw64/include/c++/13.2.0/bits/hashtable.h
- C:/msys64/mingw64/include/c++/13.2.0/bits/hashtable_policy.h
  C:/msys64/mingw64/include/c++/13.2.0/bits/invoke.h
  C:/msys64/mingw64/include/c++/13.2.0/bits/ios_base.h
  C:/msys64/mingw64/include/c++/13.2.0/bits/istream.tcc
@@ -62,12 +56,9 @@ src/manager/CMakeFiles/job_manager_lib.dir/jobManager.cpp.obj
  C:/msys64/mingw64/include/c++/13.2.0/bits/node_handle.h
  C:/msys64/mingw64/include/c++/13.2.0/bits/ostream.tcc
  C:/msys64/mingw64/include/c++/13.2.0/bits/ostream_insert.h
- C:/msys64/mingw64/include/c++/13.2.0/bits/parse_numbers.h
  C:/msys64/mingw64/include/c++/13.2.0/bits/postypes.h
  C:/msys64/mingw64/include/c++/13.2.0/bits/predefined_ops.h
  C:/msys64/mingw64/include/c++/13.2.0/bits/ptr_traits.h
- C:/msys64/mingw64/include/c++/13.2.0/bits/random.h
- C:/msys64/mingw64/include/c++/13.2.0/bits/random.tcc
  C:/msys64/mingw64/include/c++/13.2.0/bits/range_access.h
  C:/msys64/mingw64/include/c++/13.2.0/bits/refwrap.h
  C:/msys64/mingw64/include/c++/13.2.0/bits/requires_hosted.h
@@ -77,8 +68,6 @@ src/manager/CMakeFiles/job_manager_lib.dir/jobManager.cpp.obj
  C:/msys64/mingw64/include/c++/13.2.0/bits/specfun.h
  C:/msys64/mingw64/include/c++/13.2.0/bits/sstream.tcc
  C:/msys64/mingw64/include/c++/13.2.0/bits/std_abs.h
- C:/msys64/mingw64/include/c++/13.2.0/bits/std_function.h
- C:/msys64/mingw64/include/c++/13.2.0/bits/std_mutex.h
  C:/msys64/mingw64/include/c++/13.2.0/bits/stl_algo.h
  C:/msys64/mingw64/include/c++/13.2.0/bits/stl_algobase.h
  C:/msys64/mingw64/include/c++/13.2.0/bits/stl_bvector.h
@@ -92,7 +81,6 @@ src/manager/CMakeFiles/job_manager_lib.dir/jobManager.cpp.obj
  C:/msys64/mingw64/include/c++/13.2.0/bits/stl_map.h
  C:/msys64/mingw64/include/c++/13.2.0/bits/stl_multimap.h
  C:/msys64/mingw64/include/c++/13.2.0/bits/stl_multiset.h
- C:/msys64/mingw64/include/c++/13.2.0/bits/stl_numeric.h
  C:/msys64/mingw64/include/c++/13.2.0/bits/stl_pair.h
  C:/msys64/mingw64/include/c++/13.2.0/bits/stl_raw_storage_iter.h
  C:/msys64/mingw64/include/c++/13.2.0/bits/stl_relops.h
@@ -107,27 +95,19 @@ src/manager/CMakeFiles/job_manager_lib.dir/jobManager.cpp.obj
  C:/msys64/mingw64/include/c++/13.2.0/bits/string_view.tcc
  C:/msys64/mingw64/include/c++/13.2.0/bits/stringfwd.h
  C:/msys64/mingw64/include/c++/13.2.0/bits/uniform_int_dist.h
- C:/msys64/mingw64/include/c++/13.2.0/bits/unique_lock.h
  C:/msys64/mingw64/include/c++/13.2.0/bits/unique_ptr.h
- C:/msys64/mingw64/include/c++/13.2.0/bits/unordered_map.h
  C:/msys64/mingw64/include/c++/13.2.0/bits/uses_allocator.h
  C:/msys64/mingw64/include/c++/13.2.0/bits/uses_allocator_args.h
  C:/msys64/mingw64/include/c++/13.2.0/bits/utility.h
  C:/msys64/mingw64/include/c++/13.2.0/bits/vector.tcc
  C:/msys64/mingw64/include/c++/13.2.0/cctype
  C:/msys64/mingw64/include/c++/13.2.0/cerrno
- C:/msys64/mingw64/include/c++/13.2.0/chrono
- C:/msys64/mingw64/include/c++/13.2.0/climits
  C:/msys64/mingw64/include/c++/13.2.0/clocale
  C:/msys64/mingw64/include/c++/13.2.0/cmath
  C:/msys64/mingw64/include/c++/13.2.0/compare
- C:/msys64/mingw64/include/c++/13.2.0/complex
  C:/msys64/mingw64/include/c++/13.2.0/cstddef
- C:/msys64/mingw64/include/c++/13.2.0/cstdint
  C:/msys64/mingw64/include/c++/13.2.0/cstdio
  C:/msys64/mingw64/include/c++/13.2.0/cstdlib
- C:/msys64/mingw64/include/c++/13.2.0/cstring
- C:/msys64/mingw64/include/c++/13.2.0/ctime
  C:/msys64/mingw64/include/c++/13.2.0/cwchar
  C:/msys64/mingw64/include/c++/13.2.0/cwctype
  C:/msys64/mingw64/include/c++/13.2.0/debug/assertions.h
@@ -140,8 +120,6 @@ src/manager/CMakeFiles/job_manager_lib.dir/jobManager.cpp.obj
  C:/msys64/mingw64/include/c++/13.2.0/ext/numeric_traits.h
  C:/msys64/mingw64/include/c++/13.2.0/ext/string_conversions.h
  C:/msys64/mingw64/include/c++/13.2.0/ext/type_traits.h
- C:/msys64/mingw64/include/c++/13.2.0/fstream
- C:/msys64/mingw64/include/c++/13.2.0/functional
  C:/msys64/mingw64/include/c++/13.2.0/initializer_list
  C:/msys64/mingw64/include/c++/13.2.0/ios
  C:/msys64/mingw64/include/c++/13.2.0/iosfwd
@@ -153,17 +131,12 @@ src/manager/CMakeFiles/job_manager_lib.dir/jobManager.cpp.obj
  C:/msys64/mingw64/include/c++/13.2.0/map
  C:/msys64/mingw64/include/c++/13.2.0/math.h
  C:/msys64/mingw64/include/c++/13.2.0/memory
- C:/msys64/mingw64/include/c++/13.2.0/mutex
  C:/msys64/mingw64/include/c++/13.2.0/new
- C:/msys64/mingw64/include/c++/13.2.0/numeric
  C:/msys64/mingw64/include/c++/13.2.0/ostream
  C:/msys64/mingw64/include/c++/13.2.0/pstl/execution_defs.h
  C:/msys64/mingw64/include/c++/13.2.0/pstl/glue_algorithm_defs.h
  C:/msys64/mingw64/include/c++/13.2.0/pstl/glue_memory_defs.h
- C:/msys64/mingw64/include/c++/13.2.0/pstl/glue_numeric_defs.h
  C:/msys64/mingw64/include/c++/13.2.0/pstl/pstl_config.h
- C:/msys64/mingw64/include/c++/13.2.0/random
- C:/msys64/mingw64/include/c++/13.2.0/ratio
  C:/msys64/mingw64/include/c++/13.2.0/set
  C:/msys64/mingw64/include/c++/13.2.0/sstream
  C:/msys64/mingw64/include/c++/13.2.0/stdexcept
@@ -187,14 +160,11 @@ src/manager/CMakeFiles/job_manager_lib.dir/jobManager.cpp.obj
  C:/msys64/mingw64/include/c++/13.2.0/tuple
  C:/msys64/mingw64/include/c++/13.2.0/type_traits
  C:/msys64/mingw64/include/c++/13.2.0/typeinfo
- C:/msys64/mingw64/include/c++/13.2.0/unordered_map
  C:/msys64/mingw64/include/c++/13.2.0/utility
  C:/msys64/mingw64/include/c++/13.2.0/vector
  C:/msys64/mingw64/include/c++/13.2.0/x86_64-w64-mingw32/bits/atomic_word.h
- C:/msys64/mingw64/include/c++/13.2.0/x86_64-w64-mingw32/bits/basic_file.h
  C:/msys64/mingw64/include/c++/13.2.0/x86_64-w64-mingw32/bits/c++allocator.h
  C:/msys64/mingw64/include/c++/13.2.0/x86_64-w64-mingw32/bits/c++config.h
- C:/msys64/mingw64/include/c++/13.2.0/x86_64-w64-mingw32/bits/c++io.h
  C:/msys64/mingw64/include/c++/13.2.0/x86_64-w64-mingw32/bits/c++locale.h
  C:/msys64/mingw64/include/c++/13.2.0/x86_64-w64-mingw32/bits/cpu_defines.h
  C:/msys64/mingw64/include/c++/13.2.0/x86_64-w64-mingw32/bits/ctype_base.h
@@ -202,7 +172,6 @@ src/manager/CMakeFiles/job_manager_lib.dir/jobManager.cpp.obj
  C:/msys64/mingw64/include/c++/13.2.0/x86_64-w64-mingw32/bits/error_constants.h
  C:/msys64/mingw64/include/c++/13.2.0/x86_64-w64-mingw32/bits/gthr-default.h
  C:/msys64/mingw64/include/c++/13.2.0/x86_64-w64-mingw32/bits/gthr.h
- C:/msys64/mingw64/include/c++/13.2.0/x86_64-w64-mingw32/bits/opt_random.h
  C:/msys64/mingw64/include/c++/13.2.0/x86_64-w64-mingw32/bits/os_defines.h
  C:/msys64/mingw64/include/corecrt.h
  C:/msys64/mingw64/include/corecrt_startup.h
@@ -224,7 +193,6 @@ src/manager/CMakeFiles/job_manager_lib.dir/jobManager.cpp.obj
  C:/msys64/mingw64/include/sdks/_mingw_ddk.h
  C:/msys64/mingw64/include/sec_api/stdio_s.h
  C:/msys64/mingw64/include/sec_api/stdlib_s.h
- C:/msys64/mingw64/include/sec_api/string_s.h
  C:/msys64/mingw64/include/sec_api/sys/timeb_s.h
  C:/msys64/mingw64/include/sec_api/wchar_s.h
  C:/msys64/mingw64/include/signal.h
@@ -232,7 +200,6 @@ src/manager/CMakeFiles/job_manager_lib.dir/jobManager.cpp.obj
  C:/msys64/mingw64/include/stdint.h
  C:/msys64/mingw64/include/stdio.h
  C:/msys64/mingw64/include/stdlib.h
- C:/msys64/mingw64/include/string.h
  C:/msys64/mingw64/include/swprintf.inl
  C:/msys64/mingw64/include/sys/timeb.h
  C:/msys64/mingw64/include/sys/types.h
@@ -240,639 +207,12 @@ src/manager/CMakeFiles/job_manager_lib.dir/jobManager.cpp.obj
  C:/msys64/mingw64/include/vadefs.h
  C:/msys64/mingw64/include/wchar.h
  C:/msys64/mingw64/include/wctype.h
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/emmintrin.h
  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/limits.h
  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/mm_malloc.h
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/mmintrin.h
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/mwaitintrin.h
  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/omp.h
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/pmmintrin.h
  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h
  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h
  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/syslimits.h
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/xmmintrin.h
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/BaseCube_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/BaseCube_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/Base_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/Base_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/Col_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/Col_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/CubeToMatOp_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/CubeToMatOp_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/Cube_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/Cube_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/GenCube_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/GenCube_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/Gen_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/Gen_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/GlueCube_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/GlueCube_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/Glue_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/Glue_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/MapMat_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/MapMat_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/Mat_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/Mat_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/OpCube_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/OpCube_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/Op_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/Op_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/Proxy.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/ProxyCube.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/Row_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/Row_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/SizeCube_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/SizeCube_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/SizeMat_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/SizeMat_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/SpBase_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/SpBase_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/SpCol_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/SpCol_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/SpGlue_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/SpGlue_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/SpMat_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/SpMat_iterators_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/SpMat_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/SpOp_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/SpOp_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/SpProxy.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/SpRow_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/SpRow_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/SpSubview_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/SpSubview_col_list_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/SpSubview_col_list_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/SpSubview_iterators_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/SpSubview_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/SpToDGlue_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/SpToDGlue_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/SpToDOp_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/SpToDOp_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/SpValProxy_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/SpValProxy_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/access.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/arma_cmath.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/arma_config.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/arma_forward.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/arma_ostream_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/arma_ostream_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/arma_rel_comparators.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/arma_rng.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/arma_rng_cxx03.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/arma_static_check.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/arma_str.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/arma_version.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/arrayops_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/arrayops_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/auxlib_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/auxlib_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/band_helper.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/compiler_check.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/compiler_setup.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/compiler_setup_post.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/cond_rel_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/cond_rel_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/config.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/constants.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/constants_old.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/csv_name.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/debug.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/def_arpack.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/def_atlas.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/def_blas.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/def_fftw3.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/def_lapack.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/def_superlu.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/diagmat_proxy.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/diagview_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/diagview_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/diskio_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/diskio_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/distr_param.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/eGlueCube_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/eGlueCube_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/eGlue_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/eGlue_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/eOpCube_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/eOpCube_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/eOp_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/eOp_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/eglue_core_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/eglue_core_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/eop_aux.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/eop_core_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/eop_core_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fft_engine_fftw3.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fft_engine_kissfft.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/field_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/field_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fill.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_accu.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_all.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_any.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_approx_equal.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_as_scalar.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_chi2rnd.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_chol.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_clamp.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_cond_rcond.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_conv.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_conv_to.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_cor.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_cov.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_cross.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_cumprod.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_cumsum.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_det.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_diagmat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_diags_spdiags.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_diagvec.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_diff.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_dot.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_eig_gen.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_eig_pair.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_eig_sym.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_eigs_gen.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_eigs_sym.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_elem.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_eps.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_expmat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_eye.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_fft.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_fft2.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_find.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_find_unique.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_flip.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_hess.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_hist.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_histc.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_index_max.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_index_min.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_inplace_strans.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_inplace_trans.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_interp1.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_interp2.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_intersect.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_inv.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_inv_sympd.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_join.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_kmeans.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_kron.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_log_det.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_log_normpdf.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_logmat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_lu.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_max.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_mean.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_median.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_min.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_misc.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_mvnrnd.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_n_unique.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_nonzeros.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_norm.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_normalise.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_normcdf.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_normpdf.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_numel.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_ones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_orth_null.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_pinv.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_polyfit.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_polyval.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_powext.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_powmat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_princomp.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_prod.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_qr.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_quantile.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_qz.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_randg.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_randi.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_randn.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_randperm.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_randu.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_range.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_rank.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_regspace.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_repelem.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_repmat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_reshape.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_resize.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_reverse.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_roots.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_schur.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_shift.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_shuffle.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_size.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_solve.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_sort.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_sort_index.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_speye.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_spones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_sprandn.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_sprandu.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_spsolve.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_sqrtmat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_stddev.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_strans.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_sum.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_svd.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_svds.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_sylvester.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_symmat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_toeplitz.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_trace.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_trans.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_trapz.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_trig.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_trimat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_trimat_ind.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_trunc_exp.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_trunc_log.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_unique.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_var.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_vecnorm.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_vectorise.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_wishrnd.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/fn_zeros.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_affmul_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_affmul_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_atan2_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_atan2_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_conv_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_conv_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_cor_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_cor_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_cov_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_cov_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_cross_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_cross_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_hist_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_hist_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_histc_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_histc_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_hypot_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_hypot_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_intersect_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_intersect_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_join_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_join_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_kron_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_kron_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_max_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_max_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_min_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_min_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_mixed_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_mixed_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_mvnrnd_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_mvnrnd_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_polyfit_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_polyfit_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_polyval_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_polyval_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_powext_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_powext_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_quantile_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_quantile_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_relational_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_relational_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_solve_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_solve_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_times_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_times_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_times_misc_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_times_misc_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_toeplitz_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_toeplitz_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_trapz_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/glue_trapz_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/gmm_diag_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/gmm_diag_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/gmm_full_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/gmm_full_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/gmm_misc_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/gmm_misc_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/hdf5_misc.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/hdf5_name.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/include_hdf5.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/include_superlu.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/injector_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/injector_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/memory.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/mp_misc.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/mtGlueCube_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/mtGlueCube_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/mtGlue_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/mtGlue_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/mtOpCube_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/mtOpCube_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/mtOp_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/mtOp_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/mtSpGlue_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/mtSpGlue_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/mtSpOp_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/mtSpOp_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/mul_gemm.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/mul_gemm_mixed.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/mul_gemv.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/mul_herk.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/mul_syrk.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/newarp_DenseGenMatProd_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/newarp_DenseGenMatProd_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/newarp_DoubleShiftQR_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/newarp_DoubleShiftQR_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/newarp_EigsSelect.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/newarp_GenEigsSolver_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/newarp_GenEigsSolver_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/newarp_SortEigenvalue.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/newarp_SparseGenMatProd_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/newarp_SparseGenMatProd_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/newarp_SparseGenRealShiftSolve_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/newarp_SparseGenRealShiftSolve_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/newarp_SymEigsShiftSolver_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/newarp_SymEigsShiftSolver_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/newarp_SymEigsSolver_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/newarp_SymEigsSolver_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/newarp_TridiagEigen_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/newarp_TridiagEigen_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/newarp_UpperHessenbergEigen_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/newarp_UpperHessenbergEigen_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/newarp_UpperHessenbergQR_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/newarp_UpperHessenbergQR_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/newarp_cx_attrib.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_all_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_all_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_any_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_any_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_chi2rnd_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_chi2rnd_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_chol_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_chol_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_clamp_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_clamp_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_col_as_mat_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_col_as_mat_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_cond_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_cond_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_cor_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_cor_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_cov_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_cov_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_cumprod_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_cumprod_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_cumsum_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_cumsum_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_cx_scalar_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_cx_scalar_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_det_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_det_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_diagmat_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_diagmat_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_diagvec_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_diagvec_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_diff_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_diff_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_dot_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_dot_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_dotext_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_dotext_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_expmat_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_expmat_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_fft_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_fft_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_find_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_find_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_find_unique_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_find_unique_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_flip_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_flip_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_hist_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_hist_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_htrans_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_htrans_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_index_max_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_index_max_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_index_min_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_index_min_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_inv_gen_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_inv_gen_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_inv_spd_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_inv_spd_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_log_det_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_log_det_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_logmat_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_logmat_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_max_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_max_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_mean_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_mean_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_median_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_median_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_min_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_min_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_misc_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_misc_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_nonzeros_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_nonzeros_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_norm2est_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_norm2est_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_norm_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_norm_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_normalise_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_normalise_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_orth_null_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_orth_null_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_pinv_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_pinv_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_powmat_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_powmat_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_princomp_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_princomp_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_prod_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_prod_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_range_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_range_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_rank_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_rank_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_rcond_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_rcond_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_relational_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_relational_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_repelem_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_repelem_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_repmat_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_repmat_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_reshape_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_reshape_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_resize_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_resize_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_reverse_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_reverse_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_roots_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_roots_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_row_as_mat_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_row_as_mat_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_shift_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_shift_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_shuffle_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_shuffle_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_sort_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_sort_index_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_sort_index_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_sort_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_sp_minus_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_sp_minus_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_sp_plus_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_sp_plus_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_sqrtmat_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_sqrtmat_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_stddev_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_stddev_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_strans_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_strans_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_sum_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_sum_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_symmat_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_symmat_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_toeplitz_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_toeplitz_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_trimat_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_trimat_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_unique_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_unique_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_var_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_var_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_vecnorm_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_vecnorm_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_vectorise_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_vectorise_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_wishrnd_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/op_wishrnd_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/operator_cube_div.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/operator_cube_minus.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/operator_cube_plus.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/operator_cube_relational.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/operator_cube_schur.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/operator_cube_times.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/operator_div.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/operator_minus.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/operator_ostream.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/operator_plus.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/operator_relational.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/operator_schur.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/operator_times.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/podarray_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/podarray_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/promote_type.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/restrictors.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/running_stat_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/running_stat_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/running_stat_vec_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/running_stat_vec_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/sp_auxlib_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/sp_auxlib_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/span.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spdiagview_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spdiagview_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spglue_join_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spglue_join_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spglue_kron_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spglue_kron_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spglue_max_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spglue_max_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spglue_merge_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spglue_merge_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spglue_min_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spglue_min_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spglue_minus_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spglue_minus_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spglue_plus_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spglue_plus_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spglue_relational_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spglue_relational_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spglue_schur_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spglue_schur_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spglue_times_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spglue_times_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spop_diagmat_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spop_diagmat_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spop_htrans_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spop_htrans_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spop_max_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spop_max_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spop_mean_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spop_mean_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spop_min_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spop_min_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spop_misc_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spop_misc_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spop_norm_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spop_norm_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spop_normalise_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spop_normalise_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spop_repmat_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spop_repmat_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spop_reverse_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spop_reverse_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spop_strans_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spop_strans_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spop_sum_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spop_sum_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spop_symmat_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spop_symmat_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spop_trimat_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spop_trimat_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spop_var_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spop_var_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spop_vecnorm_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spop_vecnorm_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spop_vectorise_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spop_vectorise_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spsolve_factoriser_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/spsolve_factoriser_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/strip.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/subview_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/subview_cube_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/subview_cube_each_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/subview_cube_each_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/subview_cube_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/subview_cube_slices_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/subview_cube_slices_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/subview_each_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/subview_each_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/subview_elem1_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/subview_elem1_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/subview_elem2_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/subview_elem2_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/subview_field_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/subview_field_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/subview_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/sym_helper.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/traits.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/translate_arpack.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/translate_atlas.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/translate_blas.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/translate_fftw3.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/translate_lapack.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/translate_superlu.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/trimat_helper.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/typedef_elem.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/typedef_elem_check.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/typedef_mat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/typedef_mat_fixed.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/unwrap.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/unwrap_cube.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/unwrap_spmat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/upgrade_val.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/wall_clock_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/wall_clock_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/xtrans_mat_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/xtrans_mat_meat.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/xvec_htrans_bones.hpp
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/xvec_htrans_meat.hpp
  D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/yaml-cpp/binary.h
  D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/yaml-cpp/dll.h
  D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/yaml-cpp/emitter.h
@@ -905,6 +245,6 @@ src/manager/CMakeFiles/job_manager_lib.dir/jobManager.cpp.obj
  D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/yaml-cpp/traits.h
  D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/yaml-cpp/yaml.h
  D:/Programming/cpp/002_VSCode/001_Simulations/TMM/src/optics/tmmRun.h
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/src/structures/material.h
+ D:/Programming/cpp/002_VSCode/001_Simulations/TMM/src/structures/inputStructure.h
  D:/Programming/cpp/002_VSCode/001_Simulations/TMM/src/manager/jobManager.h
 

@@ -904,6 +904,6 @@ src/optics/CMakeFiles/tmm_lib.dir/tmmRun.cpp.obj
  D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/yaml-cpp/stlemitter.h
  D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/yaml-cpp/traits.h
  D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/yaml-cpp/yaml.h
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/src/structures/material.h
+ D:/Programming/cpp/002_VSCode/001_Simulations/TMM/src/structures/inputStructure.h
  D:/Programming/cpp/002_VSCode/001_Simulations/TMM/src/optics/tmmRun.h
 

@@ -903,13 +903,11 @@ src/optics/CMakeFiles/tmm_lib.dir/tmmRun.cpp.obj: D:/Programming/cpp/002_VSCode/
   D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/yaml-cpp/stlemitter.h \
   D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/yaml-cpp/traits.h \
   D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/yaml-cpp/yaml.h \
-  D:/Programming/cpp/002_VSCode/001_Simulations/TMM/src/structures/material.h \
+  D:/Programming/cpp/002_VSCode/001_Simulations/TMM/src/structures/inputStructure.h \
   D:/Programming/cpp/002_VSCode/001_Simulations/TMM/src/optics/tmmRun.h
 
 
 D:/Programming/cpp/002_VSCode/001_Simulations/TMM/src/optics/tmmRun.h:
-
-D:/Programming/cpp/002_VSCode/001_Simulations/TMM/src/structures/material.h:
 
 D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/yaml-cpp/parser.h:
 
@@ -934,6 +932,8 @@ D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/xvec_ht
 D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/xtrans_mat_meat.hpp:
 
 D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/xtrans_mat_bones.hpp:
+
+D:/Programming/cpp/002_VSCode/001_Simulations/TMM/src/structures/inputStructure.h:
 
 D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/armadillo_bits/wall_clock_meat.hpp:
 

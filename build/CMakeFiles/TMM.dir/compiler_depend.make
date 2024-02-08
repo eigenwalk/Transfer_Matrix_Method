@@ -243,9 +243,11 @@ CMakeFiles/TMM.dir/main.cpp.obj: D:/Programming/cpp/002_VSCode/001_Simulations/T
   D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/yaml-cpp/traits.h \
   D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/yaml-cpp/yaml.h \
   D:/Programming/cpp/002_VSCode/001_Simulations/TMM/src/optics/tmmRun.h \
-  D:/Programming/cpp/002_VSCode/001_Simulations/TMM/src/structures/material.h \
+  D:/Programming/cpp/002_VSCode/001_Simulations/TMM/src/structures/inputStructure.h \
   D:/Programming/cpp/002_VSCode/001_Simulations/TMM/src/manager/jobManager.h
 
+
+D:/Programming/cpp/002_VSCode/001_Simulations/TMM/src/structures/inputStructure.h:
 
 D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/yaml-cpp/node/ptr.h:
 
@@ -542,8 +544,6 @@ C:/msys64/mingw64/include/_mingw_mac.h:
 C:/msys64/mingw64/include/corecrt_startup.h:
 
 C:/msys64/mingw64/include/c++/13.2.0/atomic:
-
-D:/Programming/cpp/002_VSCode/001_Simulations/TMM/src/structures/material.h:
 
 C:/msys64/mingw64/include/c++/13.2.0/bits/algorithmfwd.h:
 

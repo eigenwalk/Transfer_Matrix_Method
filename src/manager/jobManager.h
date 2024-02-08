@@ -5,7 +5,7 @@
 #include <math.h>
 #include <string>
 #include "optics/tmmRun.h"
-#include "structures/material.h"
+#include "structures/inputStructure.h"
 
 using namespace std;
 
@@ -23,7 +23,9 @@ class JobManager
         auto start()->void;
         auto makeReport()->void;
         auto printModelInfo()->void;
-		auto inputmanager(Mater& mater, const YAML::Node& in)->bool;
+		auto inputmanager(Inputs& inpts, const YAML::Node& in)->bool;
+		auto structureUpdate(Inputs& inpts, const YAML::Node& in)->bool;
+		auto opticsUpdate(Inputs& inpts, const YAML::Node& in)->void;
 	public:
 		//TMM* m_tmm{nullptr};
 		TMM* m_tmm;

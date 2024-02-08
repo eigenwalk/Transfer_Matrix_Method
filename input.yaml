@@ -10,5 +10,5 @@ Configuration:
         wavelength: [300, 310, 10]
         incident_polar_angle: 0
         incident_azimuthal_angle: 0
-        polarization: [0.5, 0.5]        ## 0.5 x TE : 0.5 x TM
-
+        polarization: 0.5               ## 0.5 x TE : 0.5 x TM
+        dop: 1                          ## degree of polarization (to be implemented)

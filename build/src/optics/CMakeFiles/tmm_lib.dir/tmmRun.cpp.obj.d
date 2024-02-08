@@ -899,4 +899,4 @@ src/optics/CMakeFiles/tmm_lib.dir/tmmRun.cpp.obj: \
  D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/yaml-cpp/node/detail/impl.h \
  D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/yaml-cpp/node/parse.h \
  D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/yaml-cpp/node/emit.h \
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/src/structures/material.h
+ D:/Programming/cpp/002_VSCode/001_Simulations/TMM/src/structures/inputStructure.h

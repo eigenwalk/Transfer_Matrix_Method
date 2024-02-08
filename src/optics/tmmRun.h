@@ -6,7 +6,7 @@
 #include <string>
 #include <yaml-cpp/yaml.h>
 //#include "manager/jobManager.h"
-#include "structures/material.h"
+#include "structures/inputStructure.h"
 
 using namespace std;
 
@@ -16,7 +16,7 @@ class TMM
 
     public:
 		TMM();
-		TMM(Mater mat):m_mat(mat){};
+		TMM(Inputs inpts):m_inputs(inpts){};
 		~TMM();
         //auto init(const YAML::Node& in)->void;
         auto init()->void;
@@ -25,7 +25,7 @@ class TMM
         auto printPrivate()->void;
 
 	public:
-		Mater m_mat;
+		Inputs m_inputs;
 		//int m_int;
 };
 

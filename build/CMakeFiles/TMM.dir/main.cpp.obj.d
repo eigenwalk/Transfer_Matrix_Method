@@ -236,4 +236,4 @@ CMakeFiles/TMM.dir/main.cpp.obj: \
  C:/msys64/mingw64/include/c++/13.2.0/pstl/glue_algorithm_defs.h \
  D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/yaml-cpp/node/parse.h \
  D:/Programming/cpp/002_VSCode/001_Simulations/TMM/include/yaml-cpp/node/emit.h \
- D:/Programming/cpp/002_VSCode/001_Simulations/TMM/src/structures/material.h
+ D:/Programming/cpp/002_VSCode/001_Simulations/TMM/src/structures/inputStructure.h

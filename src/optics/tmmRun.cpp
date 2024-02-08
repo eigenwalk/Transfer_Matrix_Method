@@ -11,6 +11,7 @@ using namespace std;
 auto TMM::init()->void
 {
 	cout << "TMM::init() " << endl;
+	cout << "wavelength: " << m_inputs.wavelength[0] << endl;
 	// Make T-Mat
 	// Load light and make optic parameters
 	//  
@@ -20,6 +21,7 @@ auto TMM::init()->void
 auto TMM::start()->void
 {
     cout << "start() called" << endl;
+	cout << m_inputs.n[1] << " " << m_inputs.n[3] << endl;
 }
 
 auto TMM::saveResult()->void

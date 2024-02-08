@@ -1,22 +1,15 @@
-#include <armadillo>
 #include <omp.h>
 #include <yaml-cpp/yaml.h>
 #include <string>
 #include "jobManager.h"
 
-//#include <yaml-cpp/depthguard.h>
-//#include "yaml-cpp/parser.h"
-//#include "yaml-cpp/exceptions.h"
-
-using namespace arma;
-
 auto JobManager::init()->void
 {
 	cout << "JobManager::init().." << endl;
     YAML::Node config = YAML::LoadFile(m_inputfile);
-	Mater mater;
-	if (inputmanager(mater, config["Configuration"])){
-		m_tmm = new TMM(mater);
+	Inputs inpts;
+	if (inputmanager(inpts, config["Configuration"])){
+		m_tmm = new TMM(inpts);
 	}
 	else{
 		cout << "[Error] Input size is different.." << endl;
@@ -41,21 +34,43 @@ auto JobManager::printModelInfo()->void
     cout << "printModelInfo() in Job Manager called .." << endl;
 }
 
-auto JobManager::inputmanager(Mater& mater, const YAML::Node& in)->bool
+auto JobManager::inputmanager(Inputs& inpts, const YAML::Node& in)->bool
+{
+	if (structureUpdate(inpts, in))
+	{
+		opticsUpdate(inpts, in);
+		return true;
+	}
+	return false;
+}
+
+auto JobManager::structureUpdate(Inputs& inpts, const YAML::Node& in)->bool
 {
 	string model = in["Model"].as<string>();
-	mater.stack = in["Structure"]["stack"].as<vector<string>>();
-	mater.thick = in["Structure"]["thick"].as<vector<float>>();
-	mater.n = in["Structure"]["n"].as<vector<float>>();
-	mater.k = in["Structure"]["k"].as<vector<float>>();
-	mater.num = mater.n.size();
-	//YAML::Node optics = in["Optics"];
-	
-	if (mater.n.size() != mater.k.size() or mater.n.size() != mater.stack.size() or mater.n.size() != mater.thick.size()){
+	inpts.stack = in["Structure"]["stack"].as<vector<string>>();
+	inpts.thick = in["Structure"]["thick"].as<vector<float>>();
+	inpts.n = in["Structure"]["n"].as<vector<float>>();
+	inpts.k = in["Structure"]["k"].as<vector<float>>();
+	inpts.num = inpts.n.size();
+	if (inpts.n.size() != inpts.k.size() or inpts.n.size() != inpts.stack.size() or inpts.n.size() != inpts.thick.size()){
 		cout << "[Error] structure, thickness, n and k have different size. " << endl;
 		return false;
 	}
 	return true;
+}
+
+auto JobManager::opticsUpdate(Inputs& inpts, const YAML::Node& in)->void
+{
+    //wavelength: [300, 310, 10]
+    //incident_polar_angle: 0
+    //incident_azimuthal_angle: 0
+    //polarization: 0.5               ## 0.5 x TE : 0.5 x TM
+    //dop: 1                          ## degree of polarization (to be implemented)
+	inpts.wavelength = in["Optics"]["wavelength"].as<vector<float>>();
+	inpts.polar_ang = in["Optics"]["incident_polar_angle"].as<float>();
+	inpts.azi_ang = in["Optics"]["incident_azimuthal_angle"].as<float>();
+	inpts.pol = in["Optics"]["polarization"].as<float>();
+	inpts.dop = in["Optics"]["dop"].as<float>();
 }
 
 JobManager::~JobManager()
