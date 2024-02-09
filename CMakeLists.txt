@@ -5,7 +5,7 @@ set(CMAKE_CXX_STANDARD 17)
 include(CTest)
 enable_testing()
  
-INCLUDE_DIRECTORIES(${CMAKE_CURRENT_SOURCE_DIR}/src/) 
+INCLUDE_DIRECTORIES(${CMAKE_CURRENT_SOURCE_DIR}/src/)  
 INCLUDE_DIRECTORIES(${CMAKE_CURRENT_SOURCE_DIR}/include/) 
 find_library(yaml_lib NAMES libyaml-cpp.a HINTS ${CMAKE_CURRENT_SOURCE_DIR}/lib/)
 find_library(openblas_lib NAMES libopenblas.lib HINTS ${CMAKE_CURRENT_SOURCE_DIR}/lib_win64/)

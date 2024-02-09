@@ -1,14 +1,14 @@
 Configuration:
     Model: 1D
     Structure:
-        stack: [Air, SiO, SiN, SiO, Si_sub]
-        thick: [0, 100, 200, 100, 2000]
-        n: [1, 1.5, 2.5, 1.5, 5]
-        k: [0, 0, 0, 0, 4]
+        stack: [SiO, SiN, SiO, Si_sub]  # Surrounding air / stack / air
+        thick: [0, 0, 0, 50]
+        n: [1.5, 2.5, 1.5, 3.2]
+        k: [0, 0, 0, 5.2]
     #Structure: structure.txt			## Only for 2D or 3D
     Optics:
-        wavelength: [300, 310, 10]
+        wavelength: [280, 280, 10]
         incident_polar_angle: 0
-        incident_azimuthal_angle: 0
+        incident_azimuthal_angle: 0     ## Not valid for 1D/2D structure
         polarization: 0.5               ## 0.5 x TE : 0.5 x TM
         dop: 1                          ## degree of polarization (to be implemented)

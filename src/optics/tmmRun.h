@@ -23,9 +23,11 @@ class TMM
         auto start()->void;
         auto saveResult()->void;
         auto printPrivate()->void;
+		auto transferMatrix(float& wave)->void;
 
 	public:
 		Inputs m_inputs;
+		vector<float> m_waves;
 		//int m_int;
 };
 
