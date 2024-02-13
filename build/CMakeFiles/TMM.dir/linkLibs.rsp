@@ -1,1 +1,0 @@
- src/manager/libjob_manager_lib.a src/optics/libtmm_lib.a "D:/Programming/cpp/002_VSCode/001_Simulations/TMM/lib/libyaml-cpp.a" D:/Programming/cpp/002_VSCode/001_Simulations/TMM/lib_win64/libopenblas.lib -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

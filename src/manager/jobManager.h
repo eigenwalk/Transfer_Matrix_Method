@@ -1,9 +1,12 @@
 #ifndef JOB_MANAGER_H
 #define JOB_MANAGER_H
 
+#define YAML_CPP_API 
+
 #include <iostream>
 #include <math.h>
 #include <string>
+#include <yaml-cpp/yaml.h>
 #include "optics/tmmRun.h"
 #include "structures/inputStructure.h"
 
@@ -15,7 +18,7 @@ class JobManager
 
     public:
         //JobManager(int id, string model){
-        JobManager(string inputfile){
+        JobManager(std::string inputfile){
             m_inputfile = inputfile;
         }
 		~JobManager();
@@ -29,7 +32,7 @@ class JobManager
 	public:
 		//TMM* m_tmm{nullptr};
 		TMM* m_tmm;
-        string m_inputfile;
+		std::string m_inputfile;
 		
 };
 

@@ -1,3 +1,5 @@
+//#define _GLIBCXX_USE_CXX11_ABI 0
+
 #include <iostream>
 #include <cstdlib>
 #include "src/manager/jobManager.h"
@@ -10,18 +12,18 @@ int main(int argc, char* argv[]){
 
     try{
         if (argc <= 1){
-            throw string("[Error] No input file (input.yaml) is not given..");
+            throw std::string("[Error] No input file (input.yaml) is not given..");
         }
-        string inputfile = argv[1];
+		std::string inputfile = argv[1];
         cout << "[INFO] Input file: " << inputfile << endl;
         JobManager JOB(inputfile);
         JOB.init();
         JOB.start();
         JOB.makeReport();
     }
-    catch(string error){
+    catch(std::string error){
         // TEMP (te be deleted)
-        string inputfile = "input.yaml";
+		std::string inputfile = "input.yaml";
         cout << "[INFO] Input file2: " << inputfile << endl;
         JobManager JOB(inputfile);
         JOB.init();

@@ -1,3 +1,0 @@
-C:\msys64\mingw64\bin\cmake.exe -E rm -f CMakeFiles\TMM.dir/objects.a
-C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\TMM.dir/objects.a @CMakeFiles\TMM.dir\objects1.rsp
-C:\msys64\mingw64\bin\g++.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\TMM.dir/objects.a -Wl,--no-whole-archive -o TMM.exe -Wl,--out-implib,libTMM.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\TMM.dir\linkLibs.rsp

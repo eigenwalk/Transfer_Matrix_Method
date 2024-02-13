@@ -1,5 +1,3 @@
-#include <omp.h>
-#include <yaml-cpp/yaml.h>
 #include <string>
 #include "jobManager.h"
 
@@ -46,13 +44,18 @@ auto JobManager::inputmanager(Inputs& inpts, const YAML::Node& in)->bool
 
 auto JobManager::structureUpdate(Inputs& inpts, const YAML::Node& in)->bool
 {
-	string model = in["Model"].as<string>();
-	inpts.stack = in["Structure"]["stack"].as<vector<string>>();
+	inpts.stack = in["Structure"]["stack"].as<vector<std::string>>();
 	inpts.thick = in["Structure"]["thick"].as<vector<float>>();
+	inpts.superstrate = in["Structure"]["superstrate"].as<std::string>();
+	inpts.substrate = in["Structure"]["substrate"].as<std::string>();
+	inpts.nklib = in["Structure"]["nklib"].as<std::string>();
+	inpts.num = inpts.stack.size();
+
+	//To be deleted
 	inpts.n = in["Structure"]["n"].as<vector<float>>();
 	inpts.k = in["Structure"]["k"].as<vector<float>>();
-	inpts.num = inpts.n.size();
-	if (inpts.n.size() != inpts.k.size() or inpts.n.size() != inpts.stack.size() or inpts.n.size() != inpts.thick.size()){
+
+	if (inpts.stack.size() != inpts.thick.size()){
 		cout << "[Error] structure, thickness, n and k have different size. " << endl;
 		return false;
 	}
@@ -62,16 +65,15 @@ auto JobManager::structureUpdate(Inputs& inpts, const YAML::Node& in)->bool
 auto JobManager::opticsUpdate(Inputs& inpts, const YAML::Node& in)->void
 {
     //wavelength: [300, 310, 10]
-    //incident_polar_angle: 0
-    //incident_azimuthal_angle: 0
+    //incident_polar_angle: [0]
     //polarization: 0.5               ## 0.5 x TE : 0.5 x TM
     //dop: 1                          ## degree of polarization (to be implemented)
 	inpts.wavelength = in["Optics"]["wavelength"].as<vector<float>>();
-	inpts.polar_ang = in["Optics"]["incident_polar_angle"].as<float>();
-	inpts.azi_ang = in["Optics"]["incident_azimuthal_angle"].as<float>();
+	inpts.polar_angles = in["Optics"]["incident_polar_angle"].as<vector<float>>();
 	inpts.pol = in["Optics"]["polarization"].as<float>();
 	inpts.dop = in["Optics"]["dop"].as<float>();
 }
+
 
 JobManager::~JobManager()
 {
