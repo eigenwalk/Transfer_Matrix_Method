@@ -1,9 +1,8 @@
-### _**Optical simulation MODEL using Transfer Matrix Method (TMM) for flat multilayer structures**_
-- Result: Reflection, Transmission and Absorption graph
-- Wavelengths and incident angles can be explored.
+## _**Optical simulation MODEL using Transfer Matrix Method (TMM) for flat multilayer structures**_
   
 ### How to start
-- Simulation input: input.yaml
-- Execute run.sh file
-- T, R and A will be saved in the results folder
-
+- Setup Simulation input: "input.yaml". Wide range of wavelengths and incident angles can be explored.
+- Execute the run.sh file in terminal (>>sh run.sh)
+- T, R and A will be saved in the "./results" folder
+  
+**D.Kim**
