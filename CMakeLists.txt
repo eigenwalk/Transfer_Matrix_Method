@@ -2,8 +2,7 @@ cmake_minimum_required(VERSION 3.6.0)
 project(TMM VERSION 0.1.0 LANGUAGES C CXX)
 set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
-#add_definitions(-D_GLIBCXX_USE_CXX11_ABI=0)
-#set(CMAKE_CXX_FLAGS ${CMAKE_CXX_FLAGS} -D_GLIBCXX_USE_CXX11_ABI=0) 
+find_package(OpenMP REQUIRED)
   
 include(CTest) 
 enable_testing()
@@ -26,9 +25,16 @@ target_link_libraries(${PROJECT_NAME}
     tmm_lib
     ${yaml_lib}
     ${openblas_lib}
+    ${OpenMP_CXX_FLAGS}
     #${armadillo_lib}
 )
-  
+ 
+set(CMAKE_CXX_FLAGS ${CMAKE_CXX_FLAGS} ${OpenMP_CXX_FLAGS})
+set(CMAKE_EXE_LINKER_FLAGS ${CMAKE_EXE_LINKER_FLAGS} ${OpenMP_EXE_LINKER_FLAGS})
+#target_link_libraries(${PROJECT_NAME} PRIVATE "${OpenMP_CXX_FLAGS}")
+#target_compile_options(${PROJECT_NAME} PRIVATE ${OpenMP_CXX_FLAGS})
+
+
 set(CPACK_PROJECT_NAME ${PROJECT_NAME})
 set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})
 set(OUTPUT_PATH ${CMAKE_CURRENT_BINARY_DIR})

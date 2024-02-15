@@ -1,17 +1,12 @@
 Configuration:
     Structure:
-        superstrate: Air
-        substrate: Si
-        stack: [SiO, Si3N4, SiO, Si]  # Surrounding air / stack / air
-        thick: [0, 0, 0, 1]
+        substrate: Si                 # superstrate is always Air
+        stack: [SiO, Si3N4, Ag, SiO, Si]  # Multi-layer stack 
+        thick: [20, 20, 3, 20, 100]
         nklib: nk_lib
-
-        # To be deleted
-        n: [1.5, 2.5, 1.5, 3.5]
-        k: [0, 0, 0, 3]
     Optics:
         wavelength: [250, 1000, 5]
-        incident_polar_angle: [75.8]
+        incident_polar_angle: [0, 80, 10]
         incident_azimuthal_angle: 0     ## Not valid for 1D/2D structure
-        polarization: 0.5               ## 0.5 x TE : 0.5 x TM
+        polarization: 0.5               ## pol x TE(s) : (1-0.5) x TM(p)
         dop: 1                          ## degree of polarization (to be implemented)

@@ -8,7 +8,7 @@ using namespace std;
 
 int main(int argc, char* argv[]){
     cout << " " << endl;
-    cout << "[INFO] TMM model started ..." << endl;
+    cout << "[INFO] Optics TMM model started ..." << endl;
 
     try{
         if (argc <= 1){
@@ -22,14 +22,6 @@ int main(int argc, char* argv[]){
         JOB.makeReport();
     }
     catch(std::string error){
-        // TEMP (te be deleted)
-		std::string inputfile = "input.yaml";
-        cout << "[INFO] Input file2: " << inputfile << endl;
-        JobManager JOB(inputfile);
-        JOB.init();
-        JOB.start();
-        JOB.makeReport();
-        // upto here
         cout << error << endl;
     }
 
